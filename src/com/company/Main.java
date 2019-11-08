@@ -58,7 +58,7 @@ public  class Main {
            System.out.println(".jobdescription");
           jobdescription = Z.nextLine();
 
-
+         System.out.println(name+emailaddress+company+jobtitle+startdate+enddate+jobdescription);
 
 
 
