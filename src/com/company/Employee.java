@@ -14,7 +14,7 @@ public class Employee {
 
 
     public
-        Employee(String name_b1, String email_address_b2, String company_b3, String job_title_b4, String start_date_b5, String end_date_b6, String job_description_b7)
+        Employee(String name, String email_address, String company, String job_title, String start_date, String end_date, String job_description)
         {
             this.name = name;
             this.emailaddress = emailaddress;

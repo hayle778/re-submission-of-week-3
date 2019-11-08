@@ -9,7 +9,10 @@
 package com.company;
 
 
+import java.util.ArrayList;
 import java.util.Scanner;
+
+
 
 public  class Main {
 
@@ -17,36 +20,50 @@ public  class Main {
 
     public static void main(String[] args) {
         Scanner Z = new Scanner(System.in);
-
+        ArrayList<String> employees = new ArrayList<>();
+          employees.add("Betty");
         boolean Y;
+        String PersonalInformation;
         String name ;
         String emailaddress ;
         String company ;
+        String EXPERIANCE ;
         String jobtitle ;
         String startdate ;
         String enddate ;
         String jobdescription ;
+        String cool;
         String d;
 
-        System.out.println("EMPLOYEE RESUME " );
-        boolean list  = true;
-        while (list){
-           System.out.println("Do you like to create a resume? ");
-           System.out.println("name");
+        boolean y = true;
+
+              boolean list  = true;
+        while (true){
+            System.out.println("*********EMPLOYEE RESUME********** " );
+            System.out.println("Do you want to add a resume ?"  );
+            System.out.println("1.PERSONAL INFORMATION ");
+           System.out.println(".name");
            name = Z.nextLine();
-           System.out.println("emailaddress");
+           System.out.println(".emailaddress");
            emailaddress = Z.nextLine();
-           System.out.println("company");
+           System.out.println ("2.EXPERIANCE");
+           System.out.println(".company");
            company = Z.nextLine();
-           System.out.println("jobtitle");
-           company = Z.nextLine();
-           System.out.println("startdate");
-           company = Z.nextLine();
-           System.out.println("enddate");
-           company = Z.nextLine();
-           System.out.println("jobdescription");
-           company = Z.nextLine();
-       }
+           System.out.println(".jobtitle");
+           jobtitle = Z.nextLine();
+           System.out.println(".startdate");
+           startdate = Z.nextLine();
+           System.out.println(".enddate");
+           enddate = Z.nextLine();
+           System.out.println(".jobdescription");
+          jobdescription = Z.nextLine();
+
+
+
+
+
+
+        }
 
     }
 
