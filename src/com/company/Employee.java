@@ -2,6 +2,7 @@ package com.company;
 
 public class Employee {
 
+    public String getjob;
     private String name = "";
     private String emailaddress = "";
     private String company = "";
@@ -83,14 +84,14 @@ public class Employee {
     }
 
     public String getDisplayText () {
-        return "Y/N name:" + getName() +
-                "Y/N emailaddress:" + getEmailaddress() +
-                "Y/N company:" + getCompany() +
-                "Y/N jobtitle:" + getJobtitle() +
-                "Y/N startdate:" + getStartdate() +
-                "Y/N enddate:" + getEnddate() +
-                "Y/N jobdescription:" + getJobdescription() +
-                "/Y";
+        return " name:" + getName() +
+                "\n emailaddress:" + getEmailaddress() +
+                "\n  company:" + getCompany() +
+                "\n jobtitle:" + getJobtitle() +
+                "\n startdate:" + getStartdate() +
+                "\n enddate:" + getEnddate() +
+                "\n jobdescription:" + getJobdescription() +
+                " ";
     }
 
 

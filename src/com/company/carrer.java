@@ -1,4 +1,4 @@
-package com.company;
+//package com.company;
 /*
 1.Build as an Object-Oriented Program
 2.The main method of the program should handle all user interaction
@@ -12,26 +12,26 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class carrer {
+//public class carrer {
 
-    public static void job(String[] args) {
-        Scanner Z = new Scanner(System.in);
-        ArrayList<Employee> employees = new ArrayList<>();
+    //public static void job(String[] args) {
+    //    Scanner Z = new Scanner(System.in);
+        //ArrayList<Employee> employees = new ArrayList<>();
 
 
 
-        employees.add(new Employee());
+        //employees.add(new Employee());
 
-        Employee All = new Employee("Name ", "Email address ", "Company ", "Job title ", "Start date ", "End date ", "Job description ");
+        //Employee All = new Employee("Name ", "Email address ", "Company ", "Job title ", "Start date ", "End date ", "Job description ");
 
-        employees.add(All);
-        String employee = null;
-        System.out.println("Please enter the name of all employee ");
-        String Allemployee = Z.nextLine();
+        //employees.add(All);
+        //String employee = null;
+        //System.out.println("Please enter the name of all employee ");
+        //String Allemployee = Z.nextLine();
 
-    }
+   // }
 
-    }
+  //  }
 
 
 

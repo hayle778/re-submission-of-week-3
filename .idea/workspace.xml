@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1d7545a-5c0c-4de0-9308-30236fbcd456" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/ifTry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chall3/META-INF/Chall3.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chall3/com/company/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chall3/com/company/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chall3/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chall3/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chall3/com/company/carrer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/carrer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/carrer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +34,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -46,7 +60,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Chall3" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -56,11 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -76,6 +85,15 @@
       <workItem from="1573156975052" duration="5479000" />
       <workItem from="1573224208497" duration="7719000" />
       <workItem from="1573232219542" duration="10826000" />
+      <workItem from="1573335458059" duration="1596000" />
+      <workItem from="1573416562281" duration="1590000" />
+      <workItem from="1573418372251" duration="1742000" />
+      <workItem from="1573420188850" duration="1787000" />
+      <workItem from="1573421997352" duration="1191000" />
+      <workItem from="1573424578770" duration="1787000" />
+      <workItem from="1573426419972" duration="1793000" />
+      <workItem from="1573428243339" duration="1788000" />
+      <workItem from="1573431476899" duration="964000" />
     </task>
     <servers />
   </component>
@@ -97,5 +115,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Challenge_3$Main.ic" NAME="Main Coverage Results" MODIFIED="1573226189480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Challenge_4$Main.ic" NAME="Main Coverage Results" MODIFIED="1573425339415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
